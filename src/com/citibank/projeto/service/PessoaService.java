@@ -8,4 +8,17 @@ public class PessoaService {
 		System.out.println("Codigo implementado para PessoaService");
 		
 	}
+	
+	
+	public void fazAlgo() {
+		
+		System.out.println("Codigo implementado para PessoaService");
+		
+	}
+	
+	public void fazAlgo2() {
+		
+		System.out.println("Codigo implementado para PessoaService");
+		
+	}
 }

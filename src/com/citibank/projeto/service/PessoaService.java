@@ -16,6 +16,13 @@ public class PessoaService {
 		System.out.println("Codigo implementado para PessoaService");
 		
 	}
+	
+	public void fazAlgoDiferente2() {
+		
+		System.out.println("Codigo implementado para PessoaService");
+		
+	}
+	
 
 	
 }
